@@ -1,0 +1,13 @@
+{
+  "itemGroup.frostfreunde": "Example Mod Tab",
+  "block.frostfreunde.example_block": "Example Block",
+  "item.frostfreunde.example_item": "Example Item",
+
+  "frostfreunde.configuration.title": "Frostfreunde Configs",
+  "frostfreunde.configuration.section.frostfreunde.common.toml": "Frostfreunde Configs",
+  "frostfreunde.configuration.section.frostfreunde.common.toml.title": "Frostfreunde Configs",
+  "frostfreunde.configuration.items": "Item List",
+  "frostfreunde.configuration.logDirtBlock": "Log Dirt Block",
+  "frostfreunde.configuration.magicNumberIntroduction": "Magic Number Text",
+  "frostfreunde.configuration.magicNumber": "Magic Number"
+}
